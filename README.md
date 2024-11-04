@@ -6,5 +6,8 @@
 * Mom and Dad know various programming languages for their jobs
 
 ## Term 1
-
+### Etch-A-Sketch
+Graphics project with keypress drawing controls with the ability to save
+![Running App]()
+[Source Code]()
 ## Term 2
