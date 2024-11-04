@@ -11,3 +11,6 @@ Graphics project with keypress drawing controls with the ability to save
 ![Running App]()
 [Source Code]()
 ## Term 2
+### Calculator
+A caclculator with fully functioning buttons that can work together. 
+![Running App] (https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/calc.png?raw=true)
