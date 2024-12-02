@@ -17,5 +17,5 @@ A caclculator with fully functioning buttons that can work together.
 [Source Code](https://github.com/Fronkthechonk/programmingportfolio/blob/main/src/term1/Etch_a_Sketch/Etch_a_Sketch.pde)
 ## SpaceGame
 Description: OOP solution for a collision based space game themed game.
-![SpaceGame}!
+![Running App] (https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/Screenshot%202024-12-02%20at%2011.33.02%20AM.png?raw=true) 
 [Source Code] (https://github.com/Fronkthechonk/programmingportfolio/tree/main/src/term2/Final%20Space%20Game?)
