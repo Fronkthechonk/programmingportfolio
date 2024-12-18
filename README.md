@@ -5,7 +5,8 @@
 * Learned HTML/CSS for half a year on W3Schools
 * Mom and Dad know various programming languages for their jobs
 * Email: frankietbchia@gmail.com
-
+Certificates:
+!
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save
