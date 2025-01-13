@@ -6,7 +6,7 @@
 * Mom and Dad know various programming languages for their jobs
 * Email: frankietbchia@gmail.com
 * Certificates:
-* ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/Certificate.pdf?raw=true)
+* ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/Screenshot%202025-01-13%20at%2011.27.17%20AM.png?raw=true)
 
 ## Term 1
 ### Etch-A-Sketch
