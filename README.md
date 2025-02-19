@@ -11,14 +11,27 @@
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save
+
 ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/etch.png?raw=true)
+
 [Source Code](https://github.com/Fronkthechonk/programmingportfolio/blob/main/src/term1/Etch_a_Sketch/Etch_a_Sketch.pde)
+
 ## Term 2
 ### Calculator
 A caclculator with fully functioning buttons that can work together. 
+
 ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/calc.png?raw=true) 
+
 [Source Code](https://github.com/Fronkthechonk/programmingportfolio/blob/main/src/term1/Etch_a_Sketch/Etch_a_Sketch.pde)
+
 ## SpaceGame
 Description: OOP solution for a collision based space game themed game.
+
 ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/Screenshot%202024-12-02%20at%2011.33.02%20AM.png?raw=true) 
+
 [Source Code](https://github.com/Fronkthechonk/programmingportfolio/tree/main/src/term2/Final%20Space%20Game?)
+
+## Term  3
+### ShapeTester
+
+[Source Code]()
