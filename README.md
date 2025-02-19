@@ -34,6 +34,6 @@ Description: OOP solution for a collision based space game themed game.
 ## Term  3
 ### ShapeTester
 
-![Running App]()
+![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/shape.png?raw=true)
 
 [Source Code](https://github.com/Fronkthechonk/programmingportfolio/tree/main/src/newshape)
