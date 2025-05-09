@@ -7,6 +7,7 @@
 * Email: frankietbchia@gmail.com
 * Certificates:
 * ![Running App](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/Screenshot%202025-01-13%20at%2011.27.17%20AM.png?raw=true)
+* ![Skibidi](https://github.com/Fronkthechonk/programmingportfolio/blob/main/images/2Certificate.pdf?raw=true)
 
 ## Term 1
 ### Etch-A-Sketch
